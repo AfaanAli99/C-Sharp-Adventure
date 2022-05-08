@@ -11,6 +11,9 @@ namespace Challange1
             Console.WriteLine("Enter name");
             string userInput = Console.ReadLine();
             name = userInput;
+
+            //something
+
             string upperCase = userInput.ToUpper();
             string lowerCase = userInput.ToLower();
             string trim = userInput.Trim();
