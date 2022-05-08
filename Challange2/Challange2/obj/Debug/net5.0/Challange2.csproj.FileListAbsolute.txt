@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/bin/Debug/net5.0/Challange2
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/bin/Debug/net5.0/Challange2.deps.json
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/bin/Debug/net5.0/Challange2.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/bin/Debug/net5.0/Challange2.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/bin/Debug/net5.0/Challange2.dll
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/bin/Debug/net5.0/Challange2.pdb
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/obj/Debug/net5.0/Challange2.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/obj/Debug/net5.0/Challange2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/obj/Debug/net5.0/Challange2.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/obj/Debug/net5.0/Challange2.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/obj/Debug/net5.0/Challange2.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/obj/Debug/net5.0/Challange2.dll
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/obj/Debug/net5.0/refint/Challange2.dll
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/obj/Debug/net5.0/Challange2.pdb
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/obj/Debug/net5.0/Challange2.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/Challange2/Challange2/obj/Debug/net5.0/ref/Challange2.dll

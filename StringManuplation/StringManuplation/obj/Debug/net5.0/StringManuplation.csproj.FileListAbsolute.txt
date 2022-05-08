@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/bin/Debug/net5.0/StringManuplation
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/bin/Debug/net5.0/StringManuplation.deps.json
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/bin/Debug/net5.0/StringManuplation.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/bin/Debug/net5.0/StringManuplation.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/bin/Debug/net5.0/StringManuplation.dll
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/bin/Debug/net5.0/StringManuplation.pdb
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/obj/Debug/net5.0/StringManuplation.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/obj/Debug/net5.0/StringManuplation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/obj/Debug/net5.0/StringManuplation.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/obj/Debug/net5.0/StringManuplation.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/obj/Debug/net5.0/StringManuplation.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/obj/Debug/net5.0/StringManuplation.dll
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/obj/Debug/net5.0/refint/StringManuplation.dll
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/obj/Debug/net5.0/StringManuplation.pdb
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/obj/Debug/net5.0/StringManuplation.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/StringManuplation/StringManuplation/obj/Debug/net5.0/ref/StringManuplation.dll
