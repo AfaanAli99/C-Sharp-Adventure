@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/bin/Debug/net5.0/ElseIf
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/bin/Debug/net5.0/ElseIf.deps.json
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/bin/Debug/net5.0/ElseIf.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/bin/Debug/net5.0/ElseIf.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/bin/Debug/net5.0/ElseIf.dll
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/bin/Debug/net5.0/ElseIf.pdb
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/obj/Debug/net5.0/ElseIf.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/obj/Debug/net5.0/ElseIf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/obj/Debug/net5.0/ElseIf.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/obj/Debug/net5.0/ElseIf.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/obj/Debug/net5.0/ElseIf.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/obj/Debug/net5.0/ElseIf.dll
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/obj/Debug/net5.0/refint/ElseIf.dll
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/obj/Debug/net5.0/ElseIf.pdb
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/obj/Debug/net5.0/ElseIf.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/ElseIf/ElseIf/obj/Debug/net5.0/ref/ElseIf.dll

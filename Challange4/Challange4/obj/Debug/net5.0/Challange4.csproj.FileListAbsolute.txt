@@ -1,0 +1,16 @@
+/Users/Afaan/Projects/Challange4/Challange4/obj/Debug/net5.0/Challange4.csproj.AssemblyReference.cache
+/Users/Afaan/Projects/Challange4/Challange4/obj/Debug/net5.0/Challange4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Projects/Challange4/Challange4/obj/Debug/net5.0/Challange4.AssemblyInfoInputs.cache
+/Users/Afaan/Projects/Challange4/Challange4/obj/Debug/net5.0/Challange4.AssemblyInfo.cs
+/Users/Afaan/Projects/Challange4/Challange4/obj/Debug/net5.0/Challange4.csproj.CoreCompileInputs.cache
+/Users/Afaan/Projects/Challange4/Challange4/bin/Debug/net5.0/Challange4
+/Users/Afaan/Projects/Challange4/Challange4/bin/Debug/net5.0/Challange4.deps.json
+/Users/Afaan/Projects/Challange4/Challange4/bin/Debug/net5.0/Challange4.runtimeconfig.json
+/Users/Afaan/Projects/Challange4/Challange4/bin/Debug/net5.0/Challange4.runtimeconfig.dev.json
+/Users/Afaan/Projects/Challange4/Challange4/bin/Debug/net5.0/Challange4.dll
+/Users/Afaan/Projects/Challange4/Challange4/bin/Debug/net5.0/Challange4.pdb
+/Users/Afaan/Projects/Challange4/Challange4/obj/Debug/net5.0/Challange4.dll
+/Users/Afaan/Projects/Challange4/Challange4/obj/Debug/net5.0/refint/Challange4.dll
+/Users/Afaan/Projects/Challange4/Challange4/obj/Debug/net5.0/Challange4.pdb
+/Users/Afaan/Projects/Challange4/Challange4/obj/Debug/net5.0/Challange4.genruntimeconfig.cache
+/Users/Afaan/Projects/Challange4/Challange4/obj/Debug/net5.0/ref/Challange4.dll

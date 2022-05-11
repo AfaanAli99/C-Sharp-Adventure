@@ -1,0 +1,16 @@
+/Users/Afaan/Projects/DataTypes2/DataTypes2/bin/Debug/net5.0/DataTypes2
+/Users/Afaan/Projects/DataTypes2/DataTypes2/bin/Debug/net5.0/DataTypes2.deps.json
+/Users/Afaan/Projects/DataTypes2/DataTypes2/bin/Debug/net5.0/DataTypes2.runtimeconfig.json
+/Users/Afaan/Projects/DataTypes2/DataTypes2/bin/Debug/net5.0/DataTypes2.runtimeconfig.dev.json
+/Users/Afaan/Projects/DataTypes2/DataTypes2/bin/Debug/net5.0/DataTypes2.dll
+/Users/Afaan/Projects/DataTypes2/DataTypes2/bin/Debug/net5.0/DataTypes2.pdb
+/Users/Afaan/Projects/DataTypes2/DataTypes2/obj/Debug/net5.0/DataTypes2.csproj.AssemblyReference.cache
+/Users/Afaan/Projects/DataTypes2/DataTypes2/obj/Debug/net5.0/DataTypes2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Projects/DataTypes2/DataTypes2/obj/Debug/net5.0/DataTypes2.AssemblyInfoInputs.cache
+/Users/Afaan/Projects/DataTypes2/DataTypes2/obj/Debug/net5.0/DataTypes2.AssemblyInfo.cs
+/Users/Afaan/Projects/DataTypes2/DataTypes2/obj/Debug/net5.0/DataTypes2.csproj.CoreCompileInputs.cache
+/Users/Afaan/Projects/DataTypes2/DataTypes2/obj/Debug/net5.0/DataTypes2.dll
+/Users/Afaan/Projects/DataTypes2/DataTypes2/obj/Debug/net5.0/refint/DataTypes2.dll
+/Users/Afaan/Projects/DataTypes2/DataTypes2/obj/Debug/net5.0/DataTypes2.pdb
+/Users/Afaan/Projects/DataTypes2/DataTypes2/obj/Debug/net5.0/DataTypes2.genruntimeconfig.cache
+/Users/Afaan/Projects/DataTypes2/DataTypes2/obj/Debug/net5.0/ref/DataTypes2.dll

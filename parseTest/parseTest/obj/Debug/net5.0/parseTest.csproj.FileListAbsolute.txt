@@ -1,0 +1,16 @@
+/Users/Afaan/Projects/parseTest/parseTest/bin/Debug/net5.0/parseTest
+/Users/Afaan/Projects/parseTest/parseTest/bin/Debug/net5.0/parseTest.deps.json
+/Users/Afaan/Projects/parseTest/parseTest/bin/Debug/net5.0/parseTest.runtimeconfig.json
+/Users/Afaan/Projects/parseTest/parseTest/bin/Debug/net5.0/parseTest.runtimeconfig.dev.json
+/Users/Afaan/Projects/parseTest/parseTest/bin/Debug/net5.0/parseTest.dll
+/Users/Afaan/Projects/parseTest/parseTest/bin/Debug/net5.0/parseTest.pdb
+/Users/Afaan/Projects/parseTest/parseTest/obj/Debug/net5.0/parseTest.csproj.AssemblyReference.cache
+/Users/Afaan/Projects/parseTest/parseTest/obj/Debug/net5.0/parseTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Projects/parseTest/parseTest/obj/Debug/net5.0/parseTest.AssemblyInfoInputs.cache
+/Users/Afaan/Projects/parseTest/parseTest/obj/Debug/net5.0/parseTest.AssemblyInfo.cs
+/Users/Afaan/Projects/parseTest/parseTest/obj/Debug/net5.0/parseTest.csproj.CoreCompileInputs.cache
+/Users/Afaan/Projects/parseTest/parseTest/obj/Debug/net5.0/parseTest.dll
+/Users/Afaan/Projects/parseTest/parseTest/obj/Debug/net5.0/refint/parseTest.dll
+/Users/Afaan/Projects/parseTest/parseTest/obj/Debug/net5.0/parseTest.pdb
+/Users/Afaan/Projects/parseTest/parseTest/obj/Debug/net5.0/parseTest.genruntimeconfig.cache
+/Users/Afaan/Projects/parseTest/parseTest/obj/Debug/net5.0/ref/parseTest.dll

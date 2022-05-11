@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/obj/Debug/net5.0/Decisions.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/obj/Debug/net5.0/Decisions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/obj/Debug/net5.0/Decisions.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/obj/Debug/net5.0/Decisions.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/obj/Debug/net5.0/Decisions.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/bin/Debug/net5.0/Decisions
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/bin/Debug/net5.0/Decisions.deps.json
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/bin/Debug/net5.0/Decisions.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/bin/Debug/net5.0/Decisions.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/bin/Debug/net5.0/Decisions.dll
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/bin/Debug/net5.0/Decisions.pdb
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/obj/Debug/net5.0/Decisions.dll
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/obj/Debug/net5.0/refint/Decisions.dll
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/obj/Debug/net5.0/Decisions.pdb
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/obj/Debug/net5.0/Decisions.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/Decisions/Decisions/obj/Debug/net5.0/ref/Decisions.dll

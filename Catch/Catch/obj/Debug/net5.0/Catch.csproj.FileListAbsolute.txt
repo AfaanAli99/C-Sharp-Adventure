@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/bin/Debug/net5.0/Catch
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/bin/Debug/net5.0/Catch.deps.json
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/bin/Debug/net5.0/Catch.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/bin/Debug/net5.0/Catch.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/bin/Debug/net5.0/Catch.dll
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/bin/Debug/net5.0/Catch.pdb
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/obj/Debug/net5.0/Catch.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/obj/Debug/net5.0/Catch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/obj/Debug/net5.0/Catch.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/obj/Debug/net5.0/Catch.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/obj/Debug/net5.0/Catch.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/obj/Debug/net5.0/Catch.dll
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/obj/Debug/net5.0/refint/Catch.dll
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/obj/Debug/net5.0/Catch.pdb
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/obj/Debug/net5.0/Catch.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/Catch/Catch/obj/Debug/net5.0/ref/Catch.dll

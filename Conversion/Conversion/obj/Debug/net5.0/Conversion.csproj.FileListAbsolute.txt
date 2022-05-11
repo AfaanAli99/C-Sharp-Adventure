@@ -1,0 +1,16 @@
+/Users/Afaan/Projects/Conversion/Conversion/bin/Debug/net5.0/Conversion
+/Users/Afaan/Projects/Conversion/Conversion/bin/Debug/net5.0/Conversion.deps.json
+/Users/Afaan/Projects/Conversion/Conversion/bin/Debug/net5.0/Conversion.runtimeconfig.json
+/Users/Afaan/Projects/Conversion/Conversion/bin/Debug/net5.0/Conversion.runtimeconfig.dev.json
+/Users/Afaan/Projects/Conversion/Conversion/bin/Debug/net5.0/Conversion.dll
+/Users/Afaan/Projects/Conversion/Conversion/bin/Debug/net5.0/Conversion.pdb
+/Users/Afaan/Projects/Conversion/Conversion/obj/Debug/net5.0/Conversion.csproj.AssemblyReference.cache
+/Users/Afaan/Projects/Conversion/Conversion/obj/Debug/net5.0/Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Projects/Conversion/Conversion/obj/Debug/net5.0/Conversion.AssemblyInfoInputs.cache
+/Users/Afaan/Projects/Conversion/Conversion/obj/Debug/net5.0/Conversion.AssemblyInfo.cs
+/Users/Afaan/Projects/Conversion/Conversion/obj/Debug/net5.0/Conversion.csproj.CoreCompileInputs.cache
+/Users/Afaan/Projects/Conversion/Conversion/obj/Debug/net5.0/Conversion.dll
+/Users/Afaan/Projects/Conversion/Conversion/obj/Debug/net5.0/refint/Conversion.dll
+/Users/Afaan/Projects/Conversion/Conversion/obj/Debug/net5.0/Conversion.pdb
+/Users/Afaan/Projects/Conversion/Conversion/obj/Debug/net5.0/Conversion.genruntimeconfig.cache
+/Users/Afaan/Projects/Conversion/Conversion/obj/Debug/net5.0/ref/Conversion.dll
