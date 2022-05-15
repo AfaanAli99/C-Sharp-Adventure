@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/obj/Debug/net5.0/DoWhile.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/obj/Debug/net5.0/DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/obj/Debug/net5.0/DoWhile.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/obj/Debug/net5.0/DoWhile.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/obj/Debug/net5.0/DoWhile.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/bin/Debug/net5.0/DoWhile
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/bin/Debug/net5.0/DoWhile.deps.json
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/bin/Debug/net5.0/DoWhile.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/bin/Debug/net5.0/DoWhile.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/bin/Debug/net5.0/DoWhile.dll
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/bin/Debug/net5.0/DoWhile.pdb
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/obj/Debug/net5.0/DoWhile.dll
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/obj/Debug/net5.0/refint/DoWhile.dll
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/obj/Debug/net5.0/DoWhile.pdb
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/obj/Debug/net5.0/DoWhile.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/DoWhile/DoWhile/obj/Debug/net5.0/ref/DoWhile.dll

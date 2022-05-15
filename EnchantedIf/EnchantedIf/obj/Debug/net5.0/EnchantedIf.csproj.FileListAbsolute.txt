@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/bin/Debug/net5.0/EnchantedIf
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/bin/Debug/net5.0/EnchantedIf.deps.json
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/bin/Debug/net5.0/EnchantedIf.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/bin/Debug/net5.0/EnchantedIf.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/bin/Debug/net5.0/EnchantedIf.dll
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/bin/Debug/net5.0/EnchantedIf.pdb
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/obj/Debug/net5.0/EnchantedIf.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/obj/Debug/net5.0/EnchantedIf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/obj/Debug/net5.0/EnchantedIf.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/obj/Debug/net5.0/EnchantedIf.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/obj/Debug/net5.0/EnchantedIf.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/obj/Debug/net5.0/EnchantedIf.dll
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/obj/Debug/net5.0/refint/EnchantedIf.dll
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/obj/Debug/net5.0/EnchantedIf.pdb
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/obj/Debug/net5.0/EnchantedIf.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/EnchantedIf/EnchantedIf/obj/Debug/net5.0/ref/EnchantedIf.dll

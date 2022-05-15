@@ -1,4 +1,28 @@
-﻿<Properties StartupConfiguration="{FC111078-EA7F-49B4-9F8F-985C048A61EE}|Default">
+﻿<Properties StartupConfiguration="{E4341602-ED1E-4850-BBA2-716475BF6AE3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Challange5/Program.cs">
+    <Files>
+      <File FileName="Challange5/Program.cs" Line="26" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Challange5" expanded="True">
+            <Node name="Challange5" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Challange5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Challange5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

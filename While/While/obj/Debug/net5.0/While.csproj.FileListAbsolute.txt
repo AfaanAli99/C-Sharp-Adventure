@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/While/While/obj/Debug/net5.0/While.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/While/While/obj/Debug/net5.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/While/While/obj/Debug/net5.0/While.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/While/While/obj/Debug/net5.0/While.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/While/While/obj/Debug/net5.0/While.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/While/While/bin/Debug/net5.0/While
+/Users/Afaan/Documents/Udemy/C#/While/While/bin/Debug/net5.0/While.deps.json
+/Users/Afaan/Documents/Udemy/C#/While/While/bin/Debug/net5.0/While.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/While/While/bin/Debug/net5.0/While.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/While/While/bin/Debug/net5.0/While.dll
+/Users/Afaan/Documents/Udemy/C#/While/While/bin/Debug/net5.0/While.pdb
+/Users/Afaan/Documents/Udemy/C#/While/While/obj/Debug/net5.0/While.dll
+/Users/Afaan/Documents/Udemy/C#/While/While/obj/Debug/net5.0/refint/While.dll
+/Users/Afaan/Documents/Udemy/C#/While/While/obj/Debug/net5.0/While.pdb
+/Users/Afaan/Documents/Udemy/C#/While/While/obj/Debug/net5.0/While.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/While/While/obj/Debug/net5.0/ref/While.dll
