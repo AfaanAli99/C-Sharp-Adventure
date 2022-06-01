@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/bin/Debug/net5.0/Arrays
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/bin/Debug/net5.0/Arrays.deps.json
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/bin/Debug/net5.0/Arrays.dll
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/bin/Debug/net5.0/Arrays.pdb
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/obj/Debug/net5.0/Arrays.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/obj/Debug/net5.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/obj/Debug/net5.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/obj/Debug/net5.0/Arrays.dll
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/obj/Debug/net5.0/refint/Arrays.dll
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/obj/Debug/net5.0/Arrays.pdb
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/obj/Debug/net5.0/Arrays.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/Arrays/Arrays/obj/Debug/net5.0/ref/Arrays.dll

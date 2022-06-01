@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3CB400BA-2E69-41DC-B060-0F7833F1ABE5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Classes2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classes2/Human.cs">
+    <Files>
+      <File FileName="Classes2/Program.cs" Line="25" Column="1" />
+      <File FileName="Classes2/Human.cs" Line="40" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Classes2" expanded="True">
+            <Node name="Classes2" expanded="True">
+              <Node name="Human.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/Human.cs" relfile="Classes2/Human.cs" line="4" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

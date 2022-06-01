@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Afaan/Projects/Conversion/Conversion/Conversion.csproj": {}
+    "/Users/Afaan/Documents/Udemy/C#/Conversion/Conversion/Conversion.csproj": {}
   },
   "projects": {
-    "/Users/Afaan/Projects/Conversion/Conversion/Conversion.csproj": {
+    "/Users/Afaan/Documents/Udemy/C#/Conversion/Conversion/Conversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Afaan/Projects/Conversion/Conversion/Conversion.csproj",
+        "projectUniqueName": "/Users/Afaan/Documents/Udemy/C#/Conversion/Conversion/Conversion.csproj",
         "projectName": "Conversion",
-        "projectPath": "/Users/Afaan/Projects/Conversion/Conversion/Conversion.csproj",
+        "projectPath": "/Users/Afaan/Documents/Udemy/C#/Conversion/Conversion/Conversion.csproj",
         "packagesPath": "/Users/Afaan/.nuget/packages/",
-        "outputPath": "/Users/Afaan/Projects/Conversion/Conversion/obj/",
+        "outputPath": "/Users/Afaan/Documents/Udemy/C#/Conversion/Conversion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Afaan/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

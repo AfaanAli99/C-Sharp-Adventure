@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6FE83446-514B-4DA7-A577-0FB0989168C4}|Default">
+  <MonoDevelop.Ide.ItemProperties.ForEachLoop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ForEachLoop/Program.cs">
+    <Files>
+      <File FileName="ForEachLoop/Program.cs" Line="7" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ForEachLoop" expanded="True">
+            <Node name="ForEachLoop" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

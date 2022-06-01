@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/bin/Debug/net5.0/Classes2
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/bin/Debug/net5.0/Classes2.deps.json
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/bin/Debug/net5.0/Classes2.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/bin/Debug/net5.0/Classes2.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/bin/Debug/net5.0/Classes2.dll
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/bin/Debug/net5.0/Classes2.pdb
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/obj/Debug/net5.0/Classes2.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/obj/Debug/net5.0/Classes2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/obj/Debug/net5.0/Classes2.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/obj/Debug/net5.0/Classes2.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/obj/Debug/net5.0/Classes2.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/obj/Debug/net5.0/Classes2.dll
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/obj/Debug/net5.0/refint/Classes2.dll
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/obj/Debug/net5.0/Classes2.pdb
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/obj/Debug/net5.0/Classes2.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/Classes2/Classes2/obj/Debug/net5.0/ref/Classes2.dll

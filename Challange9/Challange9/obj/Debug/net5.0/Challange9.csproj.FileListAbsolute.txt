@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/bin/Debug/net5.0/Challange9
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/bin/Debug/net5.0/Challange9.deps.json
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/bin/Debug/net5.0/Challange9.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/bin/Debug/net5.0/Challange9.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/bin/Debug/net5.0/Challange9.dll
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/bin/Debug/net5.0/Challange9.pdb
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/obj/Debug/net5.0/Challange9.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/obj/Debug/net5.0/Challange9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/obj/Debug/net5.0/Challange9.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/obj/Debug/net5.0/Challange9.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/obj/Debug/net5.0/Challange9.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/obj/Debug/net5.0/Challange9.dll
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/obj/Debug/net5.0/refint/Challange9.dll
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/obj/Debug/net5.0/Challange9.pdb
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/obj/Debug/net5.0/Challange9.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/Challange9/Challange9/obj/Debug/net5.0/ref/Challange9.dll

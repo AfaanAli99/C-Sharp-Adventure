@@ -1,9 +1,4 @@
 ﻿<Properties StartupConfiguration="{B2D4198E-D600-4F82-BA84-90E46A4EA577}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Conversion PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Conversion/Program.cs">
     <Files>
       <File FileName="Conversion/Program.cs" Line="9" Column="11" />
@@ -25,4 +20,9 @@
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Conversion PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

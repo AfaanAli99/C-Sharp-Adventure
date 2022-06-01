@@ -1,0 +1,16 @@
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/bin/Debug/net5.0/ForEachLoop
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/bin/Debug/net5.0/ForEachLoop.deps.json
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/bin/Debug/net5.0/ForEachLoop.runtimeconfig.json
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/bin/Debug/net5.0/ForEachLoop.runtimeconfig.dev.json
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/bin/Debug/net5.0/ForEachLoop.dll
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/bin/Debug/net5.0/ForEachLoop.pdb
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/obj/Debug/net5.0/ForEachLoop.csproj.AssemblyReference.cache
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/obj/Debug/net5.0/ForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/obj/Debug/net5.0/ForEachLoop.AssemblyInfoInputs.cache
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/obj/Debug/net5.0/ForEachLoop.AssemblyInfo.cs
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/obj/Debug/net5.0/ForEachLoop.csproj.CoreCompileInputs.cache
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/obj/Debug/net5.0/ForEachLoop.dll
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/obj/Debug/net5.0/refint/ForEachLoop.dll
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/obj/Debug/net5.0/ForEachLoop.pdb
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/obj/Debug/net5.0/ForEachLoop.genruntimeconfig.cache
+/Users/Afaan/Documents/Udemy/C#/ForEachLoop/ForEachLoop/obj/Debug/net5.0/ref/ForEachLoop.dll
